@@ -16,13 +16,13 @@ Thx to [joeydee1986](https://github.com/joeydee1986)!
 ## ⬇️ Download and install
 
 Download the latest version here:  
-[**Download Component Language Pack**](https://github.com/ExoAE/ScCompLangPack/releases/download/Release/ScCompLangPack.zip)
+[**Download Component Language Pack**](https://github.com/ExoAE/ScCompLangPack/releases/download/%23Release/ScCompLangPack.zip) or at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)  
 
-🔧 How to Install:
+### 🔧 How to Install:
 
 1. Extract the ZIP file.
-2. Copy the data folder and the user.cfg file into your game’s LIVE folder root.
-3. If you already have a user.cfg file, do not overwrite it. Instead, open your existing user.cfg and add the following line at the end `g_language = english`
+2. If you already have a `user.cfg` file, **do not overwrite** it. Instead, open your existing user.cfg and add the following line at the end `g_language = english`.
+3. Copy the `data` folder and the (`user.cfg`) file into your game’s LIVE folder root.
 4. Launch the game.
 
 ## 🚧 Contribute or Bugs
